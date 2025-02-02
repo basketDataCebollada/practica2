@@ -1,0 +1,12 @@
+Adjunto en el documento zip 
+entregable.ipynb Donde viene el código python en formato cuaderno de trabajo, comentado tanto en texto libre fuera del código python como dentro de la parte propiamente de python
+result.json Fuente de datos
+temporada_completa.csv y temporada_completa.xlsx boxscore basico de todas las jugadoras y de todos los partidos en un unico dataset
+datos_players.csv boxscore de los jugadores agregados por totales en la temporada
+datos_players.csv boxscore de los equipos agregados por totales en la temporada
+datos_games.csv boxcore de los equipos a nivel de partido agregados por totales en cada partido
+temporada_completa_def.csv boxscore con los indicadores de estadística avanzada para cada jugadora en cada partido. En este dataset no aparecen los datos anomalos o las lineas de jugadoras que no aportaban en el partido
+nombres_jugadoras.xlsx Roaster del equipo que analizamos en el report
+resultados_nuestro_equipo.xlsx Resultados del equipo que analizamos en el report
+Clasificacion_Liga.xlsx Clasififcacion de la liga que aportamos en el report
+report.pdf Informe estadístico de la temporada del equipo 'Gatos de Bilbao'
